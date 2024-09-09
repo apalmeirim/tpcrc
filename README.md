@@ -1,2 +1,3 @@
 # tpcrc
-Mini-projects RC (Computer Networking)
+
+3 mini-projects (homework).
